@@ -1,0 +1,7 @@
+{
+  "name": "Metronome Pro",
+  "description": "An advanced metronome that allows users to set an initial BPM, and automatically increases the tempo by a specified step after a certain number of beats.",
+  "requestFramePermissions": [],
+  "prompt": "",
+  "majorCapabilities": []
+}
